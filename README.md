@@ -4,9 +4,11 @@ This repository contains character files for the Eliza OS platform, following th
 
 ## Character Sets
 
-### US Presidents (45 Characters)
+### Leaders
 
-Located in `/us_presidents/`
+#### US Presidents (45 Characters)
+
+Located in `/leaders/us_presidents/`
 
 - Comprehensive profiles of all US Presidents through history
 - Generated using ChatGPT 4 with historical verification
@@ -17,7 +19,22 @@ Located in `/us_presidents/`
   - Franklin D. Roosevelt - Great Depression and WWII era
   - Modern presidents from Carter through Trump
 
-### X / Crypto Influencers (46 Characters)
+#### Business Leaders (50 Characters)
+
+Located in `/leaders/business/`
+
+- Profiles of influential business executives and entrepreneurs
+- Generated using Google Gemini with company and leadership analysis
+- Notable leaders include:
+  - Reed Hastings - Netflix Co-founder
+  - Tim Cook - Apple CEO
+  - Oprah Winfrey - Media Executive & Entrepreneur
+  - Sheryl Sandberg - Former Meta COO
+  - Phil Knight - Nike Co-founder
+
+### Social Media
+
+#### X / Crypto Influencers (46 Characters)
 
 Located in `/x/crypto_influencers/`
 
@@ -29,24 +46,24 @@ Located in `/x/crypto_influencers/`
   - Barry Silbert - Digital Currency Group founder
   - Various crypto analysts and commentators
 
-### YouTube / Prominent Creators (50 Characters)
+#### YouTube / Prominent Creators (50 Characters)
 
 Located in `/youtube/prominent/`
 
 - Profiles of influential content creators from various YouTube genres
 - Generated using Google Gemini with channel analysis
 - Notable creators include:
-  - h3h3Productions - Comedy and commentary
-  - Vsauce - Educational content and science
-  - PhilipDeFranco - News and commentary
-  - InternetHistorian - Documentary-style content
-  - PrimitiveTechnology - DIY and educational content
+  - KSI - Entertainment and Boxing
+  - Logan Paul - Entertainment and Business
+  - Emma Chamberlain - Lifestyle and Fashion
+  - David Dobrik - Vlogs and Entertainment
+  - DanTDM - Gaming and Family Content
 
 ## Usage
 
 These character files can be imported into Eliza OS to enable AI-powered conversations and content generation that match the personality and style of the specified characters.
 
-You can also automatically import them into the Beelines.ai(https://beelines.ai) platform to create your own Audiences and Focus Groups.
+You can also automatically import them into the [Beelines.ai](https://beelines.ai) platform to create your own Audiences and Focus Groups.
 
 ## Contributing
 
