@@ -32,6 +32,45 @@ Located in `/leaders/business/`
   - Sheryl Sandberg - Former Meta COO
   - Phil Knight - Nike Co-founder
 
+### Startup World
+
+#### Traditional VCs (60 Characters)
+
+Located in `/startups/trad_vcs/`
+
+- Profiles of influential venture capital investors
+- Based on public statements and investment philosophies
+- Notable VCs include:
+  - Marc Andreessen - Andreessen Horowitz Co-founder
+  - John Doerr - Kleiner Perkins Chairman
+  - Harj Taggar - Y Combinator Partner
+
+#### Crypto VCs (26 Characters)
+
+Located in `/startups/crypto_vcs/`
+
+- Profiles of blockchain and Web3 focused venture investors
+- Generated using public statements and investment theses
+- Notable investors include:
+  - Chris Dixon - a16z Crypto
+  - Katie Haun - Haun Ventures
+  - Su Zhu - Three Arrows Capital (Historical)
+  - Arthur Hayes - BitMEX Co-founder
+
+#### Synthetic Advisors (55 Characters)
+
+Located in `/leaders/synthetic_advisors/`
+
+- Synthetic profiles of experienced startup advisors and mentors
+- Generated using advanced AI to represent diverse entrepreneurial perspectives
+- Notable mentors include:
+  - Florence Knight - Tech Startup Specialist
+  - Ava Maxwell - Growth Strategy Expert
+  - Cyrus Weston - Venture Capital Advisor
+  - Ezra Woodley - Product Development Mentor
+  - Vitalik Sharma - Blockchain Innovation Guide
+  - Valen Russo - Marketing & Growth Mentor
+
 ### Social Media
 
 #### X / Crypto Influencers (46 Characters)
